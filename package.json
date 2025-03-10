@@ -1,0 +1,22 @@
+{
+  "name": "e-commerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "packageManager": "npm@10.2.4",
+   "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "start": "turbo run start"
+  },
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "turbo": "^2.4.4"
+  }
+}
