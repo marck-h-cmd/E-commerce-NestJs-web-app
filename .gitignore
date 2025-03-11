@@ -1,1 +1,11 @@
 node_modules
+
+# Ignore turbo cache
+.turbo
+
+# Ignore build output directories
+dist/
+build/
+
+# Ignore log files
+*.log
