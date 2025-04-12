@@ -1,19 +1,19 @@
 # E-commerce nestJs App
 E-commerce app
 
-## Instalación
+## Installation
 
-### Instalar node_modules 
+### Install node_modules
 
-Para instalar los módulos de Node.js requeridos, ejecuta el siguiente comando:
+To install the required Node.js modules, run the following command:
 
 ```bash
 npm i
 ```
 
-### Compilar frontend y backend
+### Compile frontend and backend
 
-Para iniciar servidor la aplicación en desarrollo:
+To start the application server in development mode:
 
 ```bash
 npm run dev
